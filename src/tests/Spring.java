@@ -9,7 +9,7 @@ public class Spring {
     double wind = 10;
 
 
-        System.out.println("Let me know how Spring is like in your hometown?");
+        System.out.println("Let me know how Spring is like in your dream?");
 
         System.out.println("It's wonderful like; trees are " + trees);
         System.out.println("It's wonderful like; rivers are " + river);

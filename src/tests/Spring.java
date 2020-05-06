@@ -10,7 +10,9 @@ public class Spring {
 
         System.out.println("Let me know how Spring is like in your hometown?");
 
-        System.out.println("It's wonderful like; trees " + trees);
+        System.out.println("It's wonderful like; trees are " + trees);
+        System.out.println("It's wonderful like; rivers are " + river);
+        System.out.println("It's wonderful like; weather is " + weather);
 
 
 

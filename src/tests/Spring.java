@@ -10,6 +10,10 @@ public class Spring {
 
         System.out.println("Let me know how Spring is like in your hometown?");
 
+        System.out.println("It's wonderful like; trees " + trees);
+
+
+
 
 
     }

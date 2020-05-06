@@ -13,6 +13,7 @@ public class Spring {
         System.out.println("It's wonderful like; trees are " + trees);
         System.out.println("It's wonderful like; rivers are " + river);
         System.out.println("It's wonderful like; weather is " + weather);
+        System.out.println("It's wonderful like; wind " + wind);
 
 
 

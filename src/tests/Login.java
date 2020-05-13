@@ -14,6 +14,14 @@ public class Login {
         }else{
             System.out.println("not");
         }
+
+        int x=0;
+        
+        if (x==0){
+            System.out.println("equal");
+        }
+        
+
         
         
         

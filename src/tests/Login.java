@@ -8,7 +8,7 @@ public class Login {
 
         System.out.println("This is to study conflict between local and remote repository");
 
-        String s= "a";
+        String s= "a"; //changes on intelliJ
         if(s.contains("a")){
             System.out.println("contains");
         }else{

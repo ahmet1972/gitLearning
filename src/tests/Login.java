@@ -8,7 +8,11 @@ public class Login {
 
         System.out.println("This is to study conflict between local and remote repository");
 
-
+        int x=0;
+        
+        if (x==0){
+            System.out.println("equal");
+        }
         
         
         
